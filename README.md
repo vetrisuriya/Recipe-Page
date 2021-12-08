@@ -12,7 +12,7 @@
     <span> | </span>
     <a href="https://github.com/vetrisuriya/recipe-page">Solution</a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps">Challenge</a>
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">Challenge</a>
   </h3>
 </div>
 
@@ -40,7 +40,7 @@
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the following user stories:
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht) was to build an application to complete the following user stories:
 
 ## Contact
 
